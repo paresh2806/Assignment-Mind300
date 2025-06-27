@@ -1,0 +1,9 @@
+qdrant_client
+gpt4all
+fastembed
+google-genai
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+google.generativeai
